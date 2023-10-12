@@ -6,6 +6,7 @@ Contains the 2nd assignment of our bootcamp.
 The aim of this project was to start and build my 1st
 portfolio site so that other people wold be able to 
 review samples of my work and assess whether I am worthy or not!
+Link to live site: https://alirizabagdat.github.io/02-portfolio-aliriza/
 
 Credits:
 https://icons8.com/icons for their awesome icons
